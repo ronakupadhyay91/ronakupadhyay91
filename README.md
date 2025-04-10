@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ronak-techgrains&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ronak-techgrains&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronak-techgrains&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ronakupadhyay91&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ronakupadhyay91&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronakupadhyay91&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ronak-techgrains/count.svg" />
+  <img src="https://profile-counter.glitch.me/ronakupadhyay91/count.svg" />
 </p>
  
 
