@@ -1,5 +1,8 @@
 ## Hi there! I'm Ronak 👋
 
+### Glad to see you here! &nbsp; [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ronakupadhyay91.ronakupadhyay91)](https://github.com/ronakupadhyay91) [![GitHub followers](https://img.shields.io/github/followers/ronakupadhyay91.svg?style=social&label=Follow)](https://github.com/ronakupadhyay91?tab=followers)
+
+
 Here are some ideas to get you started:
 
 - 👨‍💻 Developer with more then 7 years experience
